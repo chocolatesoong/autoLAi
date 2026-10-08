@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "schema_version": 1,
+    "namespace": "soong-autolock-v2",
+    "generated_at": "2026-10-08T01:35:15+00:00",
+    "identifiers": [
+      "cd2b70c64c45fca3f28711dd10a1949c7a14a70fb327da86a39c70d45ee5db0f"
+    ]
+  },
+  "signature": "3wQBNNyLNylTKFHa2gzEClbAr1Y2OLL86pR9JM+zJUTyy/rzyGvpL5CGeFbAcUb6dpUl9Dyw6Oo0rLxnCUvaAQ=="
+}
